@@ -9,7 +9,7 @@
  *  - EduBase Board Potentiometer (PE2)
  *  - EduBase Board Analog Light Sensor (PE1)
  *
- * @author
+ * 
  */
 #include "ADC.h"
 #include "EduBase_LCD.h"
