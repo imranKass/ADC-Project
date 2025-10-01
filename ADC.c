@@ -17,7 +17,7 @@
  *  - Potentiometer   <-->  Tiva LaunchPad Pin PE2 (Channel 1)
  *  - Light Sensor    <-->  Tiva LaunchPad Pin PE1 (Channel 2)
  *
- * @Irvin
+ * 
  *
  */
 
