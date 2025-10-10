@@ -8,4 +8,5 @@ In this project I demonstrated how I configured the ADC module 0 to sample the p
 Here I covered the sensor with my hand and the light sensor level was low because there was no light on the sensor.
 
 <img width="411" height="610" alt="image" src="https://github.com/user-attachments/assets/b5b30664-7db2-43fd-8c9d-9bae5e0e5437" />
+
 Here I did not cover the sensor and the light level increased drastically.
